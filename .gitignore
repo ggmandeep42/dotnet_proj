@@ -13,6 +13,7 @@ test-results/
 
 *.cs
 !Start.cs
+!Order.cs
 
 # Mac bundle stuff
 *.dmg
