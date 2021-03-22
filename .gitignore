@@ -12,6 +12,7 @@ tarballs/
 test-results/
 
 *.cs
+!Start.cs
 
 # Mac bundle stuff
 *.dmg
